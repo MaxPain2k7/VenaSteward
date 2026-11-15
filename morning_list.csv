@@ -1,193 +1,193 @@
-icu_day,line_id,type,site,line_day,idle_hours,flag,reasons,exposure,n_exposure,dose_now,forecast,bed,day,patient
-1,CVC-45,Multi lumen,Left IJ,0.9,0,False,Blood pressure drugs running,,0,0.0,Likely,1,1,P01
-2,CVC-45,Multi lumen,Left IJ,1.9,0,False,Blood pressure drugs running,,0,0.0,Likely,1,2,P01
-3,CVC-45,Multi lumen,Left IJ,2.9,0,False,Blood pressure drugs running,,0,0.03,Likely,1,3,P01
-4,CVC-45,Multi lumen,Left IJ,3.9,0,False,Blood pressure drugs running,,0,0.0,Likely,1,4,P01
-1,CVC-44,Multi lumen,Not recorded,0.5,0,False,,,0,0.0,,2,1,P02
-1,CVC-17,Multi lumen,Right IJ,0.6,0,False,Blood pressure drugs running,,0,0.02,Likely,3,1,P03
-2,CVC-17,Multi lumen,Right IJ,1.6,20,False,,,0,0.0,,3,2,P03
-3,CVC-17,Multi lumen,Right IJ,2.6,44,True,,,0,0.0,,3,3,P03
-2,CVC-23,Multi lumen,Left Femoral,0.3,8,False,,Femoral site,1,0.0,,4,1,P04
-3,CVC-23,Multi lumen,Left Femoral,1.3,32,True,,Femoral site,1,0.0,,4,2,P04
-4,CVC-23,Multi lumen,Left Femoral,2.3,56,True,,Femoral site,1,0.0,,4,3,P04
-5,CVC-23,Multi lumen,Left Femoral,3.3,80,True,,Femoral site,1,0.0,,4,4,P04
-11,CVC-24,Multi lumen,Not recorded,0.6,0,False,Blood pressure drugs running,,0,0.1,Possible,4,10,P04
-12,CVC-24,Multi lumen,Not recorded,1.6,0,False,Blood pressure drugs running,,0,0.2,Unlikely,4,11,P04
-13,CVC-24,Multi lumen,Not recorded,2.6,0,False,Blood pressure drugs running,,0,0.148,Possible,4,12,P04
-14,CVC-24,Multi lumen,Not recorded,3.6,0,False,Blood pressure drugs running,,0,0.259,Unlikely,4,13,P04
-15,CVC-24,Multi lumen,Not recorded,4.6,11,False,,,0,0.0,,4,14,P04
-16,CVC-24,Multi lumen,Not recorded,5.6,3,False,,,0,0.0,,4,15,P04
-1,CVC-30,Introducer,Right IJ,0.7,14,False,,,0,0.0,,5,1,P05
-1,CVC-38,Multi lumen,Right Femoral,0.5,0,False,Blood pressure drugs running,Femoral site,1,0.08,Possible,6,1,P06
-2,CVC-38,Multi lumen,Right Femoral,1.5,0,False,Blood pressure drugs running,Femoral site,1,0.2,Possible,6,2,P06
-3,CVC-38,Multi lumen,Right Femoral,2.5,0,False,Blood pressure drugs running,Femoral site,1,0.16,Possible,6,3,P06
-4,CVC-39,Multi lumen,Not recorded,0.6,0,False,Blood pressure drugs running,,0,0.207,Possible,6,4,P06
-5,CVC-39,Multi lumen,Not recorded,1.6,0,False,Blood pressure drugs running,,0,0.622,Unlikely,6,5,P06
-1,CVC-25,Trauma line,Left IJ,0.2,0,False,Blood pressure drugs running,,0,0.3,Unlikely,7,1,P07
-2,CVC-25,Trauma line,Left IJ,1.2,0,False,Blood pressure drugs running,,0,0.15,Unlikely,7,2,P07
-3,CVC-25,Trauma line,Left IJ,2.2,0,False,Blood pressure drugs running,,0,0.179,Possible,7,3,P07
-4,CVC-25,Trauma line,Left IJ,3.2,0,False,Blood pressure drugs running,,0,0.06,Likely,7,4,P07
-5,CVC-25,Trauma line,Left IJ,4.2,14,False,,,0,0.0,,7,5,P07
-1,CVC-01,Multi lumen,Right IJ,0.7,0,False,Blood pressure drugs running,,0,0.149,Possible,8,1,P08
-2,CVC-01,Multi lumen,Right IJ,1.7,0,False,Blood pressure drugs running,,0,0.099,Possible,8,2,P08
-1,CVC-10,Trauma line,Right IJ,0.9,18,False,,,0,0.0,,9,1,P09
-1,CVC-32,Trauma line,Right IJ,0.6,0,False,Blood pressure drugs running,,0,0.6,Unlikely,10,1,P10
-2,CVC-32,Trauma line,Right IJ,1.6,0,False,Blood pressure drugs running,,0,0.204,Possible,10,2,P10
-3,CVC-32,Trauma line,Right IJ,2.6,0,False,Blood pressure drugs running,,0,0.04,Likely,10,3,P10
-4,CVC-32,Trauma line,Right IJ,3.6,0,False,Blood pressure drugs running,,0,0.02,Likely,10,4,P10
-5,CVC-32,Trauma line,Right IJ,4.6,21,False,,,0,0.0,,10,5,P10
-6,CVC-32,Trauma line,Right IJ,5.6,45,True,,,0,0.0,,10,6,P10
-7,CVC-32,Trauma line,Right IJ,6.6,69,True,,,0,0.0,,10,7,P10
-8,CVC-32,Trauma line,Right IJ,7.6,4,False,,,0,0.0,,10,8,P10
-9,CVC-32,Trauma line,Right IJ,8.6,28,True,,,0,0.0,,10,9,P10
-13,CVC-33,Multi lumen,Not recorded,0.4,0,False,Blood pressure drugs running,,0,0.059,Possible,10,13,P10
-14,CVC-33,Multi lumen,Not recorded,1.4,18,False,,,0,0.0,,10,14,P10
-15,CVC-33,Multi lumen,Not recorded,2.4,8,False,,,0,0.0,,10,15,P10
-16,CVC-33,Multi lumen,Not recorded,3.4,0,False,TPN running,TPN running,1,0.0,,10,16,P10
-17,CVC-33,Multi lumen,Not recorded,4.4,15,False,,,0,0.0,,10,17,P10
-18,CVC-33,Multi lumen,Not recorded,5.4,0,False,Blood pressure drugs running,,0,0.08,Possible,10,18,P10
-19,CVC-33,Multi lumen,Not recorded,6.4,0,False,Blood pressure drugs running,,0,0.04,Likely,10,19,P10
-20,CVC-33,Multi lumen,Not recorded,7.4,0,False,Blood pressure drugs running; TPN running,TPN running,1,0.111,Possible,10,20,P10
-1,CVC-59,Multi lumen,Left Subclavian,0.6,15,False,,,0,0.0,,11,1,P11
-2,CVC-59,Multi lumen,Left Subclavian,1.6,39,True,,,0,0.0,,11,2,P11
-3,CVC-59,Multi lumen,Left Subclavian,2.6,63,True,,,0,0.0,,11,3,P11
-4,CVC-59,Multi lumen,Left Subclavian,3.6,87,True,,,0,0.0,,11,4,P11
-5,CVC-59,Multi lumen,Left Subclavian,4.6,111,True,,,0,0.0,,11,5,P11
-6,CVC-59,Multi lumen,Left Subclavian,5.6,18,False,,,0,0.0,,11,6,P11
-7,CVC-59,Multi lumen,Left Subclavian,6.6,42,True,,,0,0.0,,11,7,P11
-8,CVC-59,Multi lumen,Left Subclavian,7.6,66,True,,,0,0.0,,11,8,P11
-9,CVC-59,Multi lumen,Left Subclavian,8.6,90,True,,,0,0.0,,11,9,P11
-10,CVC-59,Multi lumen,Left Subclavian,9.6,12,False,,,0,0.0,,11,10,P11
-11,CVC-59,Multi lumen,Left Subclavian,10.6,36,True,,,0,0.0,,11,11,P11
-12,CVC-59,Multi lumen,Left Subclavian,11.6,60,True,,,0,0.0,,11,12,P11
-1,CVC-60,Multi lumen,Right IJ,0.4,10,False,,,0,0.0,,12,1,P12
-2,CVC-60,Multi lumen,Right IJ,1.4,34,True,,,0,0.0,,12,2,P12
-3,CVC-16,Multi lumen,Left Subclavian,0.7,18,False,,,0,0.0,,2,2,P13
-4,CVC-16,Multi lumen,Left Subclavian,1.7,17,False,,,0,0.0,,2,3,P13
-5,CVC-16,Multi lumen,Left Subclavian,2.7,41,True,,,0,0.0,,2,4,P13
-1,CVC-18,Introducer,Right IJ,0.7,17,False,,,0,0.0,,5,2,P14
-2,CVC-18,Introducer,Right IJ,1.7,41,True,,,0,0.0,,5,3,P14
-1,CVC-04,Multi lumen,Not recorded,0.8,19,False,,,0,0.0,,9,2,P15
-2,CVC-04,Multi lumen,Not recorded,1.8,43,True,,,0,0.0,,9,3,P15
-1,CVC-27,Trauma line,Right Femoral,0.6,0,False,Blood pressure drugs running,Femoral site,1,0.608,Unlikely,8,3,P16
-2,CVC-27,Trauma line,Right Femoral,1.6,0,False,Blood pressure drugs running,Femoral site,1,0.321,Unlikely,8,4,P16
-1,CVC-28,Introducer,Right IJ,0.6,14,False,,,0,0.0,,12,3,P17
-2,CVC-28,Introducer,Right IJ,1.6,38,True,,,0,0.0,,12,4,P17
-1,CVC-15,Introducer,Right IJ,0.7,17,False,,,0,0.0,,3,4,P18
-2,CVC-15,Introducer,Right IJ,1.7,41,True,,,0,0.0,,3,5,P18
-1,CVC-57,Multi lumen,Right Femoral,0.6,0,False,Blood pressure drugs running,Femoral site,1,1.024,Unlikely,5,4,P19
-2,CVC-58,Multi lumen,Not recorded,0.7,0,False,Blood pressure drugs running,,0,0.708,Unlikely,5,5,P19
-3,CVC-58,Multi lumen,Not recorded,1.7,0,False,Blood pressure drugs running,,0,0.38,Unlikely,5,6,P19
-4,CVC-58,Multi lumen,Not recorded,2.7,0,False,Blood pressure drugs running,,0,0.05,Likely,5,7,P19
-5,CVC-58,Multi lumen,Not recorded,3.7,23,False,,,0,0.0,,5,8,P19
-1,CVC-36,Multi lumen,Not recorded,0.2,0,False,,,0,0.0,,9,4,P20
-2,CVC-36,Multi lumen,Not recorded,1.2,24,True,,,0,0.0,,9,5,P20
-3,CVC-36,Multi lumen,Not recorded,2.2,48,True,,,0,0.0,,9,6,P20
-4,CVC-36,Multi lumen,Not recorded,3.2,72,True,,,0,0.0,,9,7,P20
-2,CVC-31,Multi lumen,Not recorded,1.0,24,False,,,0,0.0,,1,5,P21
-3,CVC-31,Multi lumen,Not recorded,2.0,48,True,,,0,0.0,,1,6,P21
-4,CVC-31,Multi lumen,Not recorded,3.0,72,True,,,0,0.0,,1,7,P21
-5,CVC-09,Multi lumen,Not recorded,0.7,0,False,Blood pressure drugs running,,0,0.101,Possible,2,5,P22
-6,CVC-09,Multi lumen,Not recorded,1.7,0,False,Blood pressure drugs running,,0,0.101,Possible,2,6,P22
-7,CVC-09,Multi lumen,Not recorded,2.7,0,False,Blood pressure drugs running,,0,0.16,Possible,2,7,P22
-8,CVC-09,Multi lumen,Not recorded,3.7,0,False,Blood pressure drugs running,,0,0.03,Likely,2,8,P22
-9,CVC-09,Multi lumen,Not recorded,4.7,0,False,Blood pressure drugs running,,0,0.0,Likely,2,9,P22
-10,CVC-09,Multi lumen,Not recorded,5.7,0,False,Blood pressure drugs running,,0,0.168,Unlikely,2,10,P22
-1,CVC-52,Introducer,Right Femoral,0.4,8,False,,Femoral site,1,0.0,,8,5,P23
-2,CVC-52,Introducer,Right Femoral,1.4,32,True,,Femoral site,1,0.0,,8,6,P23
-3,CVC-52,Introducer,Right Femoral,2.4,56,True,,Femoral site; More than one central line,2,0.0,,8,7,P23
-3,CVC-53,Trauma line,Right IJ,0.7,17,False,,More than one central line,1,0.0,,8,7,P23
-3,CVC-54,Multi lumen,Left Femoral,0.5,12,False,,Femoral site; More than one central line,2,0.0,,8,7,P23
-4,CVC-54,Multi lumen,Left Femoral,1.5,36,True,,Femoral site,1,0.0,,8,8,P23
-5,CVC-55,Multi lumen,Right IJ,0.8,19,False,,,0,0.0,,8,9,P23
-6,CVC-55,Multi lumen,Right IJ,1.8,43,True,,,0,0.0,,8,10,P23
-7,CVC-55,Multi lumen,Right IJ,2.8,67,True,,,0,0.0,,8,11,P23
-1,CVC-02,Multi lumen,Not recorded,0.3,0,False,Blood pressure drugs running,More than one central line,1,0.219,Unlikely,12,5,P24
-1,CVC-03,Multi lumen,Not recorded,0.0,0,False,Blood pressure drugs running,More than one central line,1,0.219,Unlikely,12,5,P24
-2,CVC-02,Multi lumen,Not recorded,1.3,0,False,Blood pressure drugs running,More than one central line,1,0.584,Unlikely,12,6,P24
-2,CVC-03,Multi lumen,Not recorded,1.0,0,False,Blood pressure drugs running,More than one central line,1,0.584,Unlikely,12,6,P24
-1,CVC-51,Multi lumen,Not recorded,0.5,0,False,Blood pressure drugs running,,0,0.04,Likely,3,6,P25
-2,CVC-51,Multi lumen,Not recorded,1.5,0,False,Blood pressure drugs running,,0,0.1,Possible,3,7,P25
-3,CVC-51,Multi lumen,Not recorded,2.5,18,False,,,0,0.0,,3,8,P25
-4,CVC-51,Multi lumen,Not recorded,3.5,42,True,,,0,0.0,,3,9,P25
-5,CVC-51,Multi lumen,Not recorded,4.5,66,True,,,0,0.0,,3,10,P25
-1,CVC-08,Multi lumen,Not recorded,0.3,7,False,,,0,0.0,,6,6,P26
-2,CVC-08,Multi lumen,Not recorded,1.3,31,True,,,0,0.0,,6,7,P26
-1,CVC-14,Multi lumen,Right IJ,0.8,20,False,,,0,0.0,,7,6,P27
-2,CVC-14,Multi lumen,Right IJ,1.8,44,True,,,0,0.0,,7,7,P27
-3,CVC-14,Multi lumen,Right IJ,2.8,68,True,,,0,0.0,,7,8,P27
-4,CVC-14,Multi lumen,Right IJ,3.8,92,True,,,0,0.0,,7,9,P27
-5,CVC-14,Multi lumen,Right IJ,4.8,116,True,,,0,0.0,,7,10,P27
-1,CVC-37,Multi lumen,Not recorded,0.8,1,False,,,0,0.0,,12,7,P28
-2,CVC-37,Multi lumen,Not recorded,1.8,25,True,,,0,0.0,,12,8,P28
-1,CVC-05,Multi lumen,Right IJ,0.9,21,False,,,0,0.0,,1,8,P29
-2,CVC-13,Multi lumen,Not recorded,0.5,0,False,Blood pressure drugs running,,0,0.035,Likely,6,8,P30
-3,CVC-13,Multi lumen,Not recorded,1.5,0,False,Blood pressure drugs running,,0,0.01,Likely,6,9,P30
-4,CVC-13,Multi lumen,Not recorded,2.5,10,False,,,0,0.0,,6,10,P30
-5,CVC-13,Multi lumen,Not recorded,3.5,13,False,,,0,0.0,,6,11,P30
-6,CVC-13,Multi lumen,Not recorded,4.5,37,True,,,0,0.0,,6,12,P30
-7,CVC-13,Multi lumen,Not recorded,5.5,61,True,,,0,0.0,,6,13,P30
-1,CVC-11,Introducer,Right IJ,1.0,23,False,,,0,0.0,,9,8,P31
-1,CVC-35,Multi lumen,Not recorded,0.1,0,False,Blood pressure drugs running,,0,0.15,Possible,1,9,P32
-2,CVC-35,Multi lumen,Not recorded,1.1,14,False,,,0,0.0,,1,10,P32
-3,CVC-35,Multi lumen,Not recorded,2.1,6,False,,,0,0.0,,1,11,P32
-4,CVC-35,Multi lumen,Not recorded,3.1,0,False,Blood pressure drugs running,,0,0.02,Likely,1,12,P32
-5,CVC-35,Multi lumen,Not recorded,4.1,16,False,,,0,0.0,,1,13,P32
-6,CVC-35,Multi lumen,Not recorded,5.1,40,True,,,0,0.0,,1,14,P32
-7,CVC-35,Multi lumen,Not recorded,6.1,64,True,,,0,0.0,,1,15,P32
-1,CVC-42,Multi lumen,Right IJ,0.8,4,False,,,0,0.0,,5,9,P33
-1,CVC-22,Multi lumen,Not recorded,0.6,13,False,,,0,0.0,,9,9,P34
-3,CVC-48,Multi lumen,Not recorded,0.9,0,False,Blood pressure drugs running,,0,0.2,Possible,12,9,P35
-4,CVC-48,Multi lumen,Not recorded,1.9,0,False,Blood pressure drugs running,,0,0.05,Likely,12,10,P35
-5,CVC-48,Multi lumen,Not recorded,2.9,0,False,Blood pressure drugs running,,0,0.1,Possible,12,11,P35
-1,CVC-20,Multi lumen,Right IJ,0.5,0,False,Blood pressure drugs running,,0,0.458,Unlikely,5,10,P36
-2,CVC-20,Multi lumen,Right IJ,1.5,0,False,Blood pressure drugs running,,0,0.409,Unlikely,5,11,P36
-3,CVC-20,Multi lumen,Right IJ,2.5,0,False,Blood pressure drugs running,,0,0.08,Likely,5,12,P36
-4,CVC-20,Multi lumen,Right IJ,3.5,3,False,,,0,0.0,,5,13,P36
-5,CVC-20,Multi lumen,Right IJ,4.5,27,True,,,0,0.0,,5,14,P36
-6,CVC-20,Multi lumen,Right IJ,5.5,51,True,,,0,0.0,,5,15,P36
-7,CVC-20,Multi lumen,Right IJ,6.5,75,True,,,0,0.0,,5,16,P36
-1,CVC-34,Introducer,Right IJ,0.8,15,False,,,0,0.0,,9,10,P37
-1,CVC-06,Multi lumen,Left Subclavian,0.2,0,False,Blood pressure drugs running,,0,0.05,Possible,2,11,P38
-2,CVC-06,Multi lumen,Left Subclavian,1.2,0,False,Blood pressure drugs running,,0,0.091,Possible,2,12,P38
-3,CVC-06,Multi lumen,Left Subclavian,2.2,0,False,Blood pressure drugs running,,0,0.03,Likely,2,13,P38
-4,CVC-06,Multi lumen,Left Subclavian,3.2,20,False,,,0,0.0,,2,14,P38
-5,CVC-06,Multi lumen,Left Subclavian,4.2,44,True,,,0,0.0,,2,15,P38
-6,CVC-06,Multi lumen,Left Subclavian,5.2,68,True,,,0,0.0,,2,16,P38
-7,CVC-06,Multi lumen,Left Subclavian,6.2,92,True,,,0,0.0,,2,17,P38
-8,CVC-06,Multi lumen,Left Subclavian,7.2,116,True,,,0,0.0,,2,18,P38
-9,CVC-07,Multi lumen,Not recorded,0.8,20,False,,,0,0.0,,2,19,P38
-10,CVC-07,Multi lumen,Not recorded,1.8,44,True,,,0,0.0,,2,20,P38
-11,CVC-07,Multi lumen,Not recorded,2.8,68,True,,,0,0.0,,2,21,P38
-12,CVC-07,Multi lumen,Not recorded,3.8,92,True,,,0,0.0,,2,22,P38
-13,CVC-07,Multi lumen,Not recorded,4.8,116,True,,,0,0.0,,2,23,P38
-14,CVC-07,Multi lumen,Not recorded,5.8,140,True,,,0,0.0,,2,24,P38
-15,CVC-07,Multi lumen,Not recorded,6.8,164,True,,,0,0.0,,2,25,P38
-16,CVC-07,Multi lumen,Not recorded,7.8,188,True,,,0,0.0,,2,26,P38
-1,CVC-26,Multi lumen,Left Subclavian,0.0,0,False,,,0,0.0,,3,11,P39
-1,CVC-21,Multi lumen,Not recorded,0.6,14,False,,,0,0.0,,7,11,P40
-2,CVC-21,Multi lumen,Not recorded,1.6,38,True,,,0,0.0,,7,12,P40
-1,CVC-41,Introducer,Right IJ,0.8,20,False,,,0,0.0,,9,11,P41
-2,CVC-47,Introducer,Left IJ,0.3,0,False,Blood pressure drugs running,,0,0.0,Likely,3,12,P42
-3,CVC-47,Introducer,Left IJ,1.3,0,False,Blood pressure drugs running,,0,0.0,Likely,3,13,P42
-4,CVC-47,Introducer,Left IJ,2.3,14,False,,,0,0.0,,3,14,P42
-2,CVC-29,Multi lumen,Not recorded,0.6,2,False,,,0,0.0,,8,12,P43
-1,CVC-40,Multi lumen,Right IJ,0.5,0,False,Blood pressure drugs running; TPN running,TPN running,1,0.199,Unlikely,9,12,P44
-2,CVC-40,Multi lumen,Right IJ,1.5,0,False,Blood pressure drugs running; TPN running,TPN running,1,0.02,Likely,9,13,P44
-3,CVC-40,Multi lumen,Right IJ,2.5,0,False,TPN running,TPN running,1,0.0,,9,14,P44
-4,CVC-40,Multi lumen,Right IJ,3.5,0,False,TPN running,TPN running,1,0.0,,9,15,P44
-2,CVC-43,Multi lumen,Not recorded,1.0,7,False,,,0,0.0,,12,12,P45
-3,CVC-43,Multi lumen,Not recorded,2.0,31,True,,,0,0.0,,12,13,P45
-2,CVC-50,Multi lumen,Not recorded,0.7,0,False,Blood pressure drugs running,,0,0.22,Possible,7,13,P46
-3,CVC-50,Multi lumen,Not recorded,1.7,0,False,Blood pressure drugs running,,0,0.05,Likely,7,14,P46
-4,CVC-50,Multi lumen,Not recorded,2.7,12,False,,,0,0.0,,7,15,P46
-5,CVC-50,Multi lumen,Not recorded,3.7,36,True,,,0,0.0,,7,16,P46
-1,CVC-12,Multi lumen,Not recorded,0.6,13,False,,,0,0.0,,8,13,P47
-1,CVC-49,Multi lumen,Right IJ,0.9,5,False,,,0,0.0,,11,13,P48
-1,CVC-56,Introducer,Right IJ,0.8,6,False,,,0,0.0,,6,14,P49
-2,CVC-56,Introducer,Right IJ,1.8,18,False,,,0,0.0,,6,15,P49
-3,CVC-56,Introducer,Right IJ,2.8,42,True,,,0,0.0,,6,16,P49
-4,CVC-56,Introducer,Right IJ,3.8,66,True,,,0,0.0,,6,17,P49
-1,CVC-46,Multi lumen,Right Subclavian,0.8,20,False,,,0,0.0,,8,14,P50
-2,CVC-46,Multi lumen,Right Subclavian,1.8,0,False,Blood pressure drugs running,,0,0.05,Possible,8,15,P50
-3,CVC-46,Multi lumen,Right Subclavian,2.8,20,False,,,0,0.0,,8,16,P50
+icu_day,line_id,type,site,line_day,idle_hours,flag,reasons,exposure,n_exposure,dose_now,forecast,why,bed,day,patient
+1,CVC-45,Multi lumen,Left IJ,0.9,0,False,Blood pressure drugs running,,0,0.0,Likely,"for ending: dose now 0.00, dose change over 24 h +0.00, 1 drug running",1,1,P01
+2,CVC-45,Multi lumen,Left IJ,1.9,0,False,Blood pressure drugs running,,0,0.0,Likely,"for ending: dose now 0.00, dose change over 24 h +0.00, 1 drug running",1,2,P01
+3,CVC-45,Multi lumen,Left IJ,2.9,0,False,Blood pressure drugs running,,0,0.03,Likely,"for ending: dose now 0.03, dose change over 24 h +0.03. against: 2 drugs running",1,3,P01
+4,CVC-45,Multi lumen,Left IJ,3.9,0,False,Blood pressure drugs running,,0,0.0,Likely,"for ending: dose now 0.00, dose change over 24 h -0.03, 1 drug running",1,4,P01
+1,CVC-44,Multi lumen,Not recorded,0.5,0,False,,,0,0.0,,,2,1,P02
+1,CVC-17,Multi lumen,Right IJ,0.6,0,False,Blood pressure drugs running,,0,0.02,Likely,"for ending: dose now 0.02, 1 drug running, dose change over 24 h +0.02",3,1,P03
+2,CVC-17,Multi lumen,Right IJ,1.6,20,False,,,0,0.0,,,3,2,P03
+3,CVC-17,Multi lumen,Right IJ,2.6,44,True,,,0,0.0,,,3,3,P03
+2,CVC-23,Multi lumen,Left Femoral,0.3,8,False,,Femoral site,1,0.0,,,4,1,P04
+3,CVC-23,Multi lumen,Left Femoral,1.3,32,True,,Femoral site,1,0.0,,,4,2,P04
+4,CVC-23,Multi lumen,Left Femoral,2.3,56,True,,Femoral site,1,0.0,,,4,3,P04
+5,CVC-23,Multi lumen,Left Femoral,3.3,80,True,,Femoral site,1,0.0,,,4,4,P04
+11,CVC-24,Multi lumen,Not recorded,0.6,0,False,Blood pressure drugs running,,0,0.1,Possible,"for ending: dose now 0.10, 1 drug running. against: dose change over 24 h +0.10",4,10,P04
+12,CVC-24,Multi lumen,Not recorded,1.6,0,False,Blood pressure drugs running,,0,0.2,Unlikely,"for ending: 1 drug running. against: dose now 0.20, dose change over 24 h +0.10",4,11,P04
+13,CVC-24,Multi lumen,Not recorded,2.6,0,False,Blood pressure drugs running,,0,0.148,Possible,"for ending: 1 drug running, dose change over 24 h -0.05, dose now 0.15",4,12,P04
+14,CVC-24,Multi lumen,Not recorded,3.6,0,False,Blood pressure drugs running,,0,0.259,Unlikely,"for ending: 1 drug running. against: dose now 0.26, dose change over 24 h +0.11",4,13,P04
+15,CVC-24,Multi lumen,Not recorded,4.6,11,False,,,0,0.0,,,4,14,P04
+16,CVC-24,Multi lumen,Not recorded,5.6,3,False,,,0,0.0,,,4,15,P04
+1,CVC-30,Introducer,Right IJ,0.7,14,False,,,0,0.0,,,5,1,P05
+1,CVC-38,Multi lumen,Right Femoral,0.5,0,False,Blood pressure drugs running,Femoral site,1,0.08,Possible,"for ending: dose now 0.08, 1 drug running. against: dose change over 24 h +0.08",6,1,P06
+2,CVC-38,Multi lumen,Right Femoral,1.5,0,False,Blood pressure drugs running,Femoral site,1,0.2,Possible,"for ending: 1 drug running. against: dose now 0.20, dose change over 24 h +0.12",6,2,P06
+3,CVC-38,Multi lumen,Right Femoral,2.5,0,False,Blood pressure drugs running,Femoral site,1,0.16,Possible,"for ending: 1 drug running, dose change over 24 h -0.04, dose now 0.16",6,3,P06
+4,CVC-39,Multi lumen,Not recorded,0.6,0,False,Blood pressure drugs running,,0,0.207,Possible,"for ending: 1 drug running. against: dose now 0.21, dose change over 24 h +0.05",6,4,P06
+5,CVC-39,Multi lumen,Not recorded,1.6,0,False,Blood pressure drugs running,,0,0.622,Unlikely,"against: dose now 0.62, dose change over 24 h +0.41, 2 drugs running",6,5,P06
+1,CVC-25,Trauma line,Left IJ,0.2,0,False,Blood pressure drugs running,,0,0.3,Unlikely,"against: 2 drugs running, dose now 0.30, dose change over 24 h +0.30",7,1,P07
+2,CVC-25,Trauma line,Left IJ,1.2,0,False,Blood pressure drugs running,,0,0.15,Unlikely,"for ending: dose change over 24 h -0.15, dose now 0.15. against: 2 drugs running",7,2,P07
+3,CVC-25,Trauma line,Left IJ,2.2,0,False,Blood pressure drugs running,,0,0.179,Possible,"for ending: 1 drug running. against: dose now 0.18, dose change over 6 h +0.03",7,3,P07
+4,CVC-25,Trauma line,Left IJ,3.2,0,False,Blood pressure drugs running,,0,0.06,Likely,"for ending: dose now 0.06, 1 drug running, dose change over 24 h -0.12",7,4,P07
+5,CVC-25,Trauma line,Left IJ,4.2,14,False,,,0,0.0,,,7,5,P07
+1,CVC-01,Multi lumen,Right IJ,0.7,0,False,Blood pressure drugs running,,0,0.149,Possible,"for ending: dose now 0.15, 1 drug running. against: dose change over 24 h +0.15",8,1,P08
+2,CVC-01,Multi lumen,Right IJ,1.7,0,False,Blood pressure drugs running,,0,0.099,Possible,"for ending: dose now 0.10, dose change over 24 h -0.05, 1 drug running",8,2,P08
+1,CVC-10,Trauma line,Right IJ,0.9,18,False,,,0,0.0,,,9,1,P09
+1,CVC-32,Trauma line,Right IJ,0.6,0,False,Blood pressure drugs running,,0,0.6,Unlikely,"against: dose now 0.60, dose change over 24 h +0.60, 3 drugs running",10,1,P10
+2,CVC-32,Trauma line,Right IJ,1.6,0,False,Blood pressure drugs running,,0,0.204,Possible,"for ending: dose change over 24 h -0.40, 1 drug running. against: dose now 0.20",10,2,P10
+3,CVC-32,Trauma line,Right IJ,2.6,0,False,Blood pressure drugs running,,0,0.04,Likely,"for ending: dose now 0.04, dose change over 24 h -0.16, 1 drug running",10,3,P10
+4,CVC-32,Trauma line,Right IJ,3.6,0,False,Blood pressure drugs running,,0,0.02,Likely,"for ending: dose now 0.02, 1 drug running, dose change over 24 h -0.02",10,4,P10
+5,CVC-32,Trauma line,Right IJ,4.6,21,False,,,0,0.0,,,10,5,P10
+6,CVC-32,Trauma line,Right IJ,5.6,45,True,,,0,0.0,,,10,6,P10
+7,CVC-32,Trauma line,Right IJ,6.6,69,True,,,0,0.0,,,10,7,P10
+8,CVC-32,Trauma line,Right IJ,7.6,4,False,,,0,0.0,,,10,8,P10
+9,CVC-32,Trauma line,Right IJ,8.6,28,True,,,0,0.0,,,10,9,P10
+13,CVC-33,Multi lumen,Not recorded,0.4,0,False,Blood pressure drugs running,,0,0.059,Possible,"for ending: dose now 0.06, 1 drug running. against: dose change over 24 h +0.06",10,13,P10
+14,CVC-33,Multi lumen,Not recorded,1.4,18,False,,,0,0.0,,,10,14,P10
+15,CVC-33,Multi lumen,Not recorded,2.4,8,False,,,0,0.0,,,10,15,P10
+16,CVC-33,Multi lumen,Not recorded,3.4,0,False,TPN running,TPN running,1,0.0,,,10,16,P10
+17,CVC-33,Multi lumen,Not recorded,4.4,15,False,,,0,0.0,,,10,17,P10
+18,CVC-33,Multi lumen,Not recorded,5.4,0,False,Blood pressure drugs running,,0,0.08,Possible,"for ending: dose now 0.08, 1 drug running. against: dose change over 24 h +0.08",10,18,P10
+19,CVC-33,Multi lumen,Not recorded,6.4,0,False,Blood pressure drugs running,,0,0.04,Likely,"for ending: dose now 0.04, 1 drug running, dose change over 24 h -0.04",10,19,P10
+20,CVC-33,Multi lumen,Not recorded,7.4,0,False,Blood pressure drugs running; TPN running,TPN running,1,0.111,Possible,"for ending: dose now 0.11, 1 drug running. against: dose change over 24 h +0.07",10,20,P10
+1,CVC-59,Multi lumen,Left Subclavian,0.6,15,False,,,0,0.0,,,11,1,P11
+2,CVC-59,Multi lumen,Left Subclavian,1.6,39,True,,,0,0.0,,,11,2,P11
+3,CVC-59,Multi lumen,Left Subclavian,2.6,63,True,,,0,0.0,,,11,3,P11
+4,CVC-59,Multi lumen,Left Subclavian,3.6,87,True,,,0,0.0,,,11,4,P11
+5,CVC-59,Multi lumen,Left Subclavian,4.6,111,True,,,0,0.0,,,11,5,P11
+6,CVC-59,Multi lumen,Left Subclavian,5.6,18,False,,,0,0.0,,,11,6,P11
+7,CVC-59,Multi lumen,Left Subclavian,6.6,42,True,,,0,0.0,,,11,7,P11
+8,CVC-59,Multi lumen,Left Subclavian,7.6,66,True,,,0,0.0,,,11,8,P11
+9,CVC-59,Multi lumen,Left Subclavian,8.6,90,True,,,0,0.0,,,11,9,P11
+10,CVC-59,Multi lumen,Left Subclavian,9.6,12,False,,,0,0.0,,,11,10,P11
+11,CVC-59,Multi lumen,Left Subclavian,10.6,36,True,,,0,0.0,,,11,11,P11
+12,CVC-59,Multi lumen,Left Subclavian,11.6,60,True,,,0,0.0,,,11,12,P11
+1,CVC-60,Multi lumen,Right IJ,0.4,10,False,,,0,0.0,,,12,1,P12
+2,CVC-60,Multi lumen,Right IJ,1.4,34,True,,,0,0.0,,,12,2,P12
+3,CVC-16,Multi lumen,Left Subclavian,0.7,18,False,,,0,0.0,,,2,2,P13
+4,CVC-16,Multi lumen,Left Subclavian,1.7,17,False,,,0,0.0,,,2,3,P13
+5,CVC-16,Multi lumen,Left Subclavian,2.7,41,True,,,0,0.0,,,2,4,P13
+1,CVC-18,Introducer,Right IJ,0.7,17,False,,,0,0.0,,,5,2,P14
+2,CVC-18,Introducer,Right IJ,1.7,41,True,,,0,0.0,,,5,3,P14
+1,CVC-04,Multi lumen,Not recorded,0.8,19,False,,,0,0.0,,,9,2,P15
+2,CVC-04,Multi lumen,Not recorded,1.8,43,True,,,0,0.0,,,9,3,P15
+1,CVC-27,Trauma line,Right Femoral,0.6,0,False,Blood pressure drugs running,Femoral site,1,0.608,Unlikely,"against: dose now 0.61, dose change over 24 h +0.61, 2 drugs running",8,3,P16
+2,CVC-27,Trauma line,Right Femoral,1.6,0,False,Blood pressure drugs running,Femoral site,1,0.321,Unlikely,"for ending: dose change over 24 h -0.29. against: dose now 0.32, 2 drugs running",8,4,P16
+1,CVC-28,Introducer,Right IJ,0.6,14,False,,,0,0.0,,,12,3,P17
+2,CVC-28,Introducer,Right IJ,1.6,38,True,,,0,0.0,,,12,4,P17
+1,CVC-15,Introducer,Right IJ,0.7,17,False,,,0,0.0,,,3,4,P18
+2,CVC-15,Introducer,Right IJ,1.7,41,True,,,0,0.0,,,3,5,P18
+1,CVC-57,Multi lumen,Right Femoral,0.6,0,False,Blood pressure drugs running,Femoral site,1,1.024,Unlikely,"against: dose now 1.02, dose change over 24 h +1.02, 3 drugs running",5,4,P19
+2,CVC-58,Multi lumen,Not recorded,0.7,0,False,Blood pressure drugs running,,0,0.708,Unlikely,"for ending: dose change over 24 h -0.32. against: dose now 0.71, 3 drugs running",5,5,P19
+3,CVC-58,Multi lumen,Not recorded,1.7,0,False,Blood pressure drugs running,,0,0.38,Unlikely,"for ending: dose change over 24 h -0.33. against: dose now 0.38, 2 drugs running",5,6,P19
+4,CVC-58,Multi lumen,Not recorded,2.7,0,False,Blood pressure drugs running,,0,0.05,Likely,"for ending: dose now 0.05, dose change over 24 h -0.33, 1 drug running",5,7,P19
+5,CVC-58,Multi lumen,Not recorded,3.7,23,False,,,0,0.0,,,5,8,P19
+1,CVC-36,Multi lumen,Not recorded,0.2,0,False,,,0,0.0,,,9,4,P20
+2,CVC-36,Multi lumen,Not recorded,1.2,24,True,,,0,0.0,,,9,5,P20
+3,CVC-36,Multi lumen,Not recorded,2.2,48,True,,,0,0.0,,,9,6,P20
+4,CVC-36,Multi lumen,Not recorded,3.2,72,True,,,0,0.0,,,9,7,P20
+2,CVC-31,Multi lumen,Not recorded,1.0,24,False,,,0,0.0,,,1,5,P21
+3,CVC-31,Multi lumen,Not recorded,2.0,48,True,,,0,0.0,,,1,6,P21
+4,CVC-31,Multi lumen,Not recorded,3.0,72,True,,,0,0.0,,,1,7,P21
+5,CVC-09,Multi lumen,Not recorded,0.7,0,False,Blood pressure drugs running,,0,0.101,Possible,"for ending: dose now 0.10, dose change over 24 h -0.08, 1 drug running",2,5,P22
+6,CVC-09,Multi lumen,Not recorded,1.7,0,False,Blood pressure drugs running,,0,0.101,Possible,"for ending: dose now 0.10, 1 drug running, dose change over 6 h -0.08",2,6,P22
+7,CVC-09,Multi lumen,Not recorded,2.7,0,False,Blood pressure drugs running,,0,0.16,Possible,"for ending: dose now 0.16. against: 2 drugs running, dose change over 24 h +0.06",2,7,P22
+8,CVC-09,Multi lumen,Not recorded,3.7,0,False,Blood pressure drugs running,,0,0.03,Likely,"for ending: dose now 0.03, dose change over 24 h -0.13. against: 2 drugs running",2,8,P22
+9,CVC-09,Multi lumen,Not recorded,4.7,0,False,Blood pressure drugs running,,0,0.0,Likely,"for ending: dose now 0.00, dose change over 24 h -0.03, 1 drug running",2,9,P22
+10,CVC-09,Multi lumen,Not recorded,5.7,0,False,Blood pressure drugs running,,0,0.168,Unlikely,"for ending: dose now 0.17. against: dose change over 24 h +0.17, 2 drugs running",2,10,P22
+1,CVC-52,Introducer,Right Femoral,0.4,8,False,,Femoral site,1,0.0,,,8,5,P23
+2,CVC-52,Introducer,Right Femoral,1.4,32,True,,Femoral site,1,0.0,,,8,6,P23
+3,CVC-52,Introducer,Right Femoral,2.4,56,True,,Femoral site; More than one central line,2,0.0,,,8,7,P23
+3,CVC-53,Trauma line,Right IJ,0.7,17,False,,More than one central line,1,0.0,,,8,7,P23
+3,CVC-54,Multi lumen,Left Femoral,0.5,12,False,,Femoral site; More than one central line,2,0.0,,,8,7,P23
+4,CVC-54,Multi lumen,Left Femoral,1.5,36,True,,Femoral site,1,0.0,,,8,8,P23
+5,CVC-55,Multi lumen,Right IJ,0.8,19,False,,,0,0.0,,,8,9,P23
+6,CVC-55,Multi lumen,Right IJ,1.8,43,True,,,0,0.0,,,8,10,P23
+7,CVC-55,Multi lumen,Right IJ,2.8,67,True,,,0,0.0,,,8,11,P23
+1,CVC-02,Multi lumen,Not recorded,0.3,0,False,Blood pressure drugs running,More than one central line,1,0.219,Unlikely,"for ending: dose change over 6 h -0.48. against: dose now 0.22, dose change over 24 h +0.22",12,5,P24
+1,CVC-03,Multi lumen,Not recorded,0.0,0,False,Blood pressure drugs running,More than one central line,1,0.219,Unlikely,"for ending: dose change over 6 h -0.48. against: dose now 0.22, dose change over 24 h +0.22",12,5,P24
+2,CVC-02,Multi lumen,Not recorded,1.3,0,False,Blood pressure drugs running,More than one central line,1,0.584,Unlikely,"against: dose now 0.58, dose change over 24 h +0.36, 2 drugs running",12,6,P24
+2,CVC-03,Multi lumen,Not recorded,1.0,0,False,Blood pressure drugs running,More than one central line,1,0.584,Unlikely,"against: dose now 0.58, dose change over 24 h +0.36, 2 drugs running",12,6,P24
+1,CVC-51,Multi lumen,Not recorded,0.5,0,False,Blood pressure drugs running,,0,0.04,Likely,"for ending: dose now 0.04, 1 drug running. against: dose change over 24 h +0.04",3,6,P25
+2,CVC-51,Multi lumen,Not recorded,1.5,0,False,Blood pressure drugs running,,0,0.1,Possible,"for ending: dose now 0.10, 1 drug running. against: dose change over 24 h +0.06",3,7,P25
+3,CVC-51,Multi lumen,Not recorded,2.5,18,False,,,0,0.0,,,3,8,P25
+4,CVC-51,Multi lumen,Not recorded,3.5,42,True,,,0,0.0,,,3,9,P25
+5,CVC-51,Multi lumen,Not recorded,4.5,66,True,,,0,0.0,,,3,10,P25
+1,CVC-08,Multi lumen,Not recorded,0.3,7,False,,,0,0.0,,,6,6,P26
+2,CVC-08,Multi lumen,Not recorded,1.3,31,True,,,0,0.0,,,6,7,P26
+1,CVC-14,Multi lumen,Right IJ,0.8,20,False,,,0,0.0,,,7,6,P27
+2,CVC-14,Multi lumen,Right IJ,1.8,44,True,,,0,0.0,,,7,7,P27
+3,CVC-14,Multi lumen,Right IJ,2.8,68,True,,,0,0.0,,,7,8,P27
+4,CVC-14,Multi lumen,Right IJ,3.8,92,True,,,0,0.0,,,7,9,P27
+5,CVC-14,Multi lumen,Right IJ,4.8,116,True,,,0,0.0,,,7,10,P27
+1,CVC-37,Multi lumen,Not recorded,0.8,1,False,,,0,0.0,,,12,7,P28
+2,CVC-37,Multi lumen,Not recorded,1.8,25,True,,,0,0.0,,,12,8,P28
+1,CVC-05,Multi lumen,Right IJ,0.9,21,False,,,0,0.0,,,1,8,P29
+2,CVC-13,Multi lumen,Not recorded,0.5,0,False,Blood pressure drugs running,,0,0.035,Likely,"for ending: dose now 0.04, dose change over 24 h -0.34, 1 drug running",6,8,P30
+3,CVC-13,Multi lumen,Not recorded,1.5,0,False,Blood pressure drugs running,,0,0.01,Likely,"for ending: dose now 0.01, 1 drug running, dose change over 24 h -0.03",6,9,P30
+4,CVC-13,Multi lumen,Not recorded,2.5,10,False,,,0,0.0,,,6,10,P30
+5,CVC-13,Multi lumen,Not recorded,3.5,13,False,,,0,0.0,,,6,11,P30
+6,CVC-13,Multi lumen,Not recorded,4.5,37,True,,,0,0.0,,,6,12,P30
+7,CVC-13,Multi lumen,Not recorded,5.5,61,True,,,0,0.0,,,6,13,P30
+1,CVC-11,Introducer,Right IJ,1.0,23,False,,,0,0.0,,,9,8,P31
+1,CVC-35,Multi lumen,Not recorded,0.1,0,False,Blood pressure drugs running,,0,0.15,Possible,"for ending: dose now 0.15, 1 drug running. against: dose change over 24 h +0.15",1,9,P32
+2,CVC-35,Multi lumen,Not recorded,1.1,14,False,,,0,0.0,,,1,10,P32
+3,CVC-35,Multi lumen,Not recorded,2.1,6,False,,,0,0.0,,,1,11,P32
+4,CVC-35,Multi lumen,Not recorded,3.1,0,False,Blood pressure drugs running,,0,0.02,Likely,"for ending: dose now 0.02, 1 drug running, dose change over 24 h +0.02",1,12,P32
+5,CVC-35,Multi lumen,Not recorded,4.1,16,False,,,0,0.0,,,1,13,P32
+6,CVC-35,Multi lumen,Not recorded,5.1,40,True,,,0,0.0,,,1,14,P32
+7,CVC-35,Multi lumen,Not recorded,6.1,64,True,,,0,0.0,,,1,15,P32
+1,CVC-42,Multi lumen,Right IJ,0.8,4,False,,,0,0.0,,,5,9,P33
+1,CVC-22,Multi lumen,Not recorded,0.6,13,False,,,0,0.0,,,9,9,P34
+3,CVC-48,Multi lumen,Not recorded,0.9,0,False,Blood pressure drugs running,,0,0.2,Possible,"for ending: dose change over 24 h -0.15. against: 2 drugs running, dose now 0.20",12,9,P35
+4,CVC-48,Multi lumen,Not recorded,1.9,0,False,Blood pressure drugs running,,0,0.05,Likely,"for ending: dose now 0.05, dose change over 24 h -0.15, 1 drug running",12,10,P35
+5,CVC-48,Multi lumen,Not recorded,2.9,0,False,Blood pressure drugs running,,0,0.1,Possible,"for ending: dose now 0.10, 1 drug running. against: dose change over 24 h +0.05",12,11,P35
+1,CVC-20,Multi lumen,Right IJ,0.5,0,False,Blood pressure drugs running,,0,0.458,Unlikely,"for ending: 1 drug running. against: dose now 0.46, dose change over 24 h +0.46",5,10,P36
+2,CVC-20,Multi lumen,Right IJ,1.5,0,False,Blood pressure drugs running,,0,0.409,Unlikely,"for ending: 1 drug running, dose change over 24 h -0.05. against: dose now 0.41",5,11,P36
+3,CVC-20,Multi lumen,Right IJ,2.5,0,False,Blood pressure drugs running,,0,0.08,Likely,"for ending: dose now 0.08, dose change over 24 h -0.33, 1 drug running",5,12,P36
+4,CVC-20,Multi lumen,Right IJ,3.5,3,False,,,0,0.0,,,5,13,P36
+5,CVC-20,Multi lumen,Right IJ,4.5,27,True,,,0,0.0,,,5,14,P36
+6,CVC-20,Multi lumen,Right IJ,5.5,51,True,,,0,0.0,,,5,15,P36
+7,CVC-20,Multi lumen,Right IJ,6.5,75,True,,,0,0.0,,,5,16,P36
+1,CVC-34,Introducer,Right IJ,0.8,15,False,,,0,0.0,,,9,10,P37
+1,CVC-06,Multi lumen,Left Subclavian,0.2,0,False,Blood pressure drugs running,,0,0.05,Possible,"for ending: dose now 0.05, 1 drug running. against: dose change over 24 h +0.05",2,11,P38
+2,CVC-06,Multi lumen,Left Subclavian,1.2,0,False,Blood pressure drugs running,,0,0.091,Possible,"for ending: dose now 0.09, 1 drug running. against: dose change over 24 h +0.04",2,12,P38
+3,CVC-06,Multi lumen,Left Subclavian,2.2,0,False,Blood pressure drugs running,,0,0.03,Likely,"for ending: dose now 0.03, dose change over 24 h -0.06, 1 drug running",2,13,P38
+4,CVC-06,Multi lumen,Left Subclavian,3.2,20,False,,,0,0.0,,,2,14,P38
+5,CVC-06,Multi lumen,Left Subclavian,4.2,44,True,,,0,0.0,,,2,15,P38
+6,CVC-06,Multi lumen,Left Subclavian,5.2,68,True,,,0,0.0,,,2,16,P38
+7,CVC-06,Multi lumen,Left Subclavian,6.2,92,True,,,0,0.0,,,2,17,P38
+8,CVC-06,Multi lumen,Left Subclavian,7.2,116,True,,,0,0.0,,,2,18,P38
+9,CVC-07,Multi lumen,Not recorded,0.8,20,False,,,0,0.0,,,2,19,P38
+10,CVC-07,Multi lumen,Not recorded,1.8,44,True,,,0,0.0,,,2,20,P38
+11,CVC-07,Multi lumen,Not recorded,2.8,68,True,,,0,0.0,,,2,21,P38
+12,CVC-07,Multi lumen,Not recorded,3.8,92,True,,,0,0.0,,,2,22,P38
+13,CVC-07,Multi lumen,Not recorded,4.8,116,True,,,0,0.0,,,2,23,P38
+14,CVC-07,Multi lumen,Not recorded,5.8,140,True,,,0,0.0,,,2,24,P38
+15,CVC-07,Multi lumen,Not recorded,6.8,164,True,,,0,0.0,,,2,25,P38
+16,CVC-07,Multi lumen,Not recorded,7.8,188,True,,,0,0.0,,,2,26,P38
+1,CVC-26,Multi lumen,Left Subclavian,0.0,0,False,,,0,0.0,,,3,11,P39
+1,CVC-21,Multi lumen,Not recorded,0.6,14,False,,,0,0.0,,,7,11,P40
+2,CVC-21,Multi lumen,Not recorded,1.6,38,True,,,0,0.0,,,7,12,P40
+1,CVC-41,Introducer,Right IJ,0.8,20,False,,,0,0.0,,,9,11,P41
+2,CVC-47,Introducer,Left IJ,0.3,0,False,Blood pressure drugs running,,0,0.0,Likely,"for ending: dose now 0.00, dose change over 24 h -0.04, 1 drug running",3,12,P42
+3,CVC-47,Introducer,Left IJ,1.3,0,False,Blood pressure drugs running,,0,0.0,Likely,"for ending: dose now 0.00, dose change over 24 h +0.00, 1 drug running",3,13,P42
+4,CVC-47,Introducer,Left IJ,2.3,14,False,,,0,0.0,,,3,14,P42
+2,CVC-29,Multi lumen,Not recorded,0.6,2,False,,,0,0.0,,,8,12,P43
+1,CVC-40,Multi lumen,Right IJ,0.5,0,False,Blood pressure drugs running; TPN running,TPN running,1,0.199,Unlikely,"for ending: 1 drug running. against: dose change over 24 h +0.20, dose now 0.20",9,12,P44
+2,CVC-40,Multi lumen,Right IJ,1.5,0,False,Blood pressure drugs running; TPN running,TPN running,1,0.02,Likely,"for ending: dose now 0.02, dose change over 24 h -0.18, 1 drug running",9,13,P44
+3,CVC-40,Multi lumen,Right IJ,2.5,0,False,TPN running,TPN running,1,0.0,,,9,14,P44
+4,CVC-40,Multi lumen,Right IJ,3.5,0,False,TPN running,TPN running,1,0.0,,,9,15,P44
+2,CVC-43,Multi lumen,Not recorded,1.0,7,False,,,0,0.0,,,12,12,P45
+3,CVC-43,Multi lumen,Not recorded,2.0,31,True,,,0,0.0,,,12,13,P45
+2,CVC-50,Multi lumen,Not recorded,0.7,0,False,Blood pressure drugs running,,0,0.22,Possible,"for ending: dose change over 24 h -0.26. against: dose now 0.22, 2 drugs running",7,13,P46
+3,CVC-50,Multi lumen,Not recorded,1.7,0,False,Blood pressure drugs running,,0,0.05,Likely,"for ending: dose now 0.05, dose change over 24 h -0.17, 1 drug running",7,14,P46
+4,CVC-50,Multi lumen,Not recorded,2.7,12,False,,,0,0.0,,,7,15,P46
+5,CVC-50,Multi lumen,Not recorded,3.7,36,True,,,0,0.0,,,7,16,P46
+1,CVC-12,Multi lumen,Not recorded,0.6,13,False,,,0,0.0,,,8,13,P47
+1,CVC-49,Multi lumen,Right IJ,0.9,5,False,,,0,0.0,,,11,13,P48
+1,CVC-56,Introducer,Right IJ,0.8,6,False,,,0,0.0,,,6,14,P49
+2,CVC-56,Introducer,Right IJ,1.8,18,False,,,0,0.0,,,6,15,P49
+3,CVC-56,Introducer,Right IJ,2.8,42,True,,,0,0.0,,,6,16,P49
+4,CVC-56,Introducer,Right IJ,3.8,66,True,,,0,0.0,,,6,17,P49
+1,CVC-46,Multi lumen,Right Subclavian,0.8,20,False,,,0,0.0,,,8,14,P50
+2,CVC-46,Multi lumen,Right Subclavian,1.8,0,False,Blood pressure drugs running,,0,0.05,Possible,"for ending: dose now 0.05, 1 drug running. against: dose change over 24 h +0.05",8,15,P50
+3,CVC-46,Multi lumen,Right Subclavian,2.8,20,False,,,0,0.0,,,8,16,P50

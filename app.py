@@ -63,7 +63,7 @@ if st.sidebar.button("Clear review log"):
     REVIEWS.unlink(missing_ok=True)
 
 reviews = load_reviews()
-today = data[data.day == day].fillna({"reasons": "", "exposure": "", "forecast": "-"}).copy()
+today = data[data.day == day].fillna({"reasons": "", "exposure": "", "forecast": "-", "why": ""}).copy()
 today["status"] = today.apply(status, axis=1)
 latest = reviews[reviews.day == day].drop_duplicates("line_id", keep="last").set_index("line_id")
 today["decision"] = [f"{latest.decision[l]} ({latest.reviewer[l]})" if l in latest.index else "Not reviewed"
@@ -134,6 +134,8 @@ with tab2:
                 st.caption("No blood pressure drugs at any morning round since this line went in.")
 
             st.write("**Support ends by tomorrow? (experimental):** " + row.forecast)
+            if row.why:
+                st.write("Why the model thinks so: " + row.why + " (doses in mcg/kg/min)")
             st.caption("On the demo data this model did no better than ranking patients by dose.")
             st.write("**Infection exposure factors:** " + (row.exposure or "none"))
             st.caption("A count of known risk factors, not a risk score.")
