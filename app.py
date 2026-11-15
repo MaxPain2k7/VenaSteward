@@ -1,5 +1,7 @@
 # VenaSteward dashboard - Mahir Jain, SSETC Hackathon 2026
+# live demo: https://venasteward.streamlit.app
 #
+# to run it on your own computer
 # install once:  python -m pip install -r requirements.txt
 # run:           python -m streamlit run app.py
 #
